@@ -1,4 +1,4 @@
-<title style="font-size:8em;">Quyen Wichers</title>
+<span style="font-size:8em;">Quyen Wichers</span>
 *Full Stack Web Developer / Software Engineer*
 ---
 ## Summary
