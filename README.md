@@ -1,6 +1,6 @@
-# Quyen Wichers
-## *Full Stack Web Developer / Software Engineer*
-***
+<span style="font-size:4em;">Quyen Wichers</span>
+*Full Stack Web Developer / Software Engineer*
+---
 ## Summary
 Experience delivering web based projects from concept to deployment and knowledge of data structures and object oriented design. I’ve
 spent the past two years developing my passion for programming, with relentless enthusiasm for solving bugs and issues to develop my
